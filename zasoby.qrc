@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/kolko.bmp</file>
+        <file>img/krzyzyk.bmp</file>
+        <file>img/nic.bmp</file>
+        <file>img/osmall.bmp</file>
+        <file>img/ticTac.png</file>
+        <file>img/xsmall.bmp</file>
+    </qresource>
+</RCC>
